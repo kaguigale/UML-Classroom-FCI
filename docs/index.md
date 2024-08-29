@@ -31,7 +31,7 @@
 * Kauan Sarzi Da Rocha
 * Guilherme Shinohara
 * Gabriel Freitas Curral Miwa
-* Aluno 5
+* Leonardo Favaron Pereira
 * Aluno 6
 * Aluno 7
 * Aluno 8
