@@ -30,7 +30,7 @@
 * Kauã de Castro Alencar
 * Kauan Sarzi Da Rocha
 * Aluno 3
-* Aluno 4
+* Gabriel Freitas Curral Miwa
 * Aluno 5
 * Aluno 6
 * Aluno 7
