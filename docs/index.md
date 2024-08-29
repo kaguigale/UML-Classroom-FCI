@@ -28,7 +28,7 @@
 # Autores
 
 * Kauã de Castro Alencar
-* Aluno 2
+* Kauan Sarzi Da Rocha
 * Aluno 3
 * Aluno 4
 * Aluno 5
