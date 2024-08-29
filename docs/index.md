@@ -29,7 +29,7 @@
 
 * Kauã de Castro Alencar
 * Kauan Sarzi Da Rocha
-* Aluno 3
+* Guilherme Shinohara
 * Gabriel Freitas Curral Miwa
 * Aluno 5
 * Aluno 6
