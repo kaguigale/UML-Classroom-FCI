@@ -36,7 +36,7 @@
 
 # Descrição do Projeto
 
-*&lt;Foi-nos apresentado um projeto da empresa "Pizza Express", que enfrenta uma queda de 30% nas vendas devido a problemas na logística de entrega. O objetivo desse projeto é encontrar e solucionar as problemáticas da empresa, desenvolvendo dois sistemas de software: um para gerenciar os pedidos e identificar a loja mais próxima do cliente, e outro para suportar as operações das fábricas de pizza, visando reduzir o tempo de entrega para menos de 30 minutos.&gt;*
+*Foi-nos apresentado a empresa "Pizza Express", que enfrenta uma queda de 30% nas vendas devido a problemas na logística de entrega. O objetivo desse projeto é encontrar e solucionar as problemáticas da empresa, desenvolvendo dois sistemas de software: um para gerenciar os pedidos e identificar a loja mais próxima do cliente, e outro para suportar as operações das fábricas de pizza, visando reduzir o tempo de entrega para menos de 30 minutos.*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
