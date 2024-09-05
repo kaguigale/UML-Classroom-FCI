@@ -39,7 +39,16 @@
 *Foi-nos apresentado a empresa "Pizza Express", que enfrenta uma queda de 30% nas vendas devido a problemas na logística de entrega. O objetivo desse projeto é encontrar e solucionar as problemáticas da empresa, desenvolvendo dois sistemas de software: um para gerenciar os pedidos e identificar a loja mais próxima do cliente, e outro para suportar as operações das fábricas de pizza, visando reduzir o tempo de entrega para menos de 30 minutos.*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*Requisitos Funcionais: 
+- Captar a localização com endereço do cliente.
+- Encontrar a franquia mais próxima a partir do endereço do cliente
+- Captar o pedido e enviar para a franquia localizada anteriormente.
+- Após a chegada do pedido, processar todas as informações dentro de 15 minutos.*
+*Requisitos Não-Funcionais:
+- Estabilidade do sistema, sem ocilações e quedas.
+- Segurança no sistema para nao ser invadido.
+- Velocidade do processamento dos dados e na hora de bater o endereço do cliente com a franquia próxima.
+- Compatibilidade entre plataformas.
 
 # Diagrama de Atividades
 
