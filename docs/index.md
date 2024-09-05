@@ -43,7 +43,7 @@
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+Para resolver o problema da pizzaria o software vai fazer com que no momento em que  o cliente ligue para a central e informa o seu CEP, ele vai ser transferido para falar diretamente com a unidade mais próxima da sua casa. Assim que o pedido for realizado, a pizzaria vai ter que prepara-lo e liberar para entrega em um tempo de 10 a 15 minutos, com isso, vai sobrar um tempo de 15 minutos para a entrega ser efetuada, uma vez que cada unidade da pizzaria vai ficar em um raio que possa ser atendido dentro desse tempo. 
 
 # Diagrama de Casos de Uso
 
