@@ -32,9 +32,6 @@
 * Guilherme Shinohara
 * Gabriel Freitas Curral Miwa
 * Leonardo Favaron Pereira
-* Aluno 6
-* Aluno 7
-* Aluno 8
 
 
 # Descrição do Projeto
