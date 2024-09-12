@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0i0pU9Rxsa2nbH2X6kDl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0i0pU9Rxsa2nbH2X6kDl-18" target="0i0pU9Rxsa2nbH2X6kDl-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0i0pU9Rxsa2nbH2X6kDl-18" value="Processamento do pedido em 15 minutos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0i0pU9Rxsa2nbH2X6kDl-20" value="Executar" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0i0pU9Rxsa2nbH2X6kDl-33" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-40" width="569.9999999999995" height="480" as="geometry" />
         </mxCell>
