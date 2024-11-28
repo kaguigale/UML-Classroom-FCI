@@ -1,38 +1,79 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
-# Template para Disciplina de Engenharia de Software
-
-O repositório define um modelo (*template*) que deverá ser seguido por cada grupo no projeto.
-
-A seguir, os passos para a preparação do projeto:
-
-1. Um dos membros do grupo deverá realizar um *fork* deste repositório.
-2. O dono do repositório deverá convidar os demais membros do grupo para serem colaboradores.
-3. O dono do repositório deverá convidar o professor para ser colaborador do repositório.
-4. O dono do repositório deverá habilitar o GitHub Pages. Basta seguir o [procedimento para habilitar o GitHub Pages](https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), lembrando de escolher em *Source* a opção `/docs` em lugar da opção `/root`.
-5. Cada membro do grupo deverá instalar o [Git](https://git-scm.com/downloads).
-6. Para a edição do conteúdo deste projeto, sugere-se que cada membro do grupo faça a instalação do [Visual Studio Code](https://code.visualstudio.com/) com as extensões [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) e [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github). No entanto, cada membro poderá utilizar a IDE de sua preferência.
-7. Cada membro do grupo deverá [clonar o repositório do grupo no seu computador](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette).
-8. Cada membro do grupo deverá editar o seu próprio nome no arquivo em [/docs/index.md](./docs/index.md), de preferência [criando um novo *branch* e um *pull request*](https://www.youtube.com/watch?v=LdSwWxVzUpo).
-9. O dono do repositório deverá editar este arquivo, removendo estas instruções iniciais e preenchendo o restante da página com os dados do projeto do seu grupo.
-10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
+<font size="+12"><center>
+*&lt;Projeto: Projeto App Pizzaria;*
+</center></font>
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+**Conteúdo**
 
-# Grupo: *<Nome_do_seu_Grupo>*
+- [Autores](#nome-alunos)
+- [Descrição do Projeto](#introdução-do-projeto)
+- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Diagrama de Atividades](#diagrama-de-atividades) 
+- [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
+- [Descrição dos Casos de Uso](#descrição-das-funcões)
+- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
+- [Diagrama de Classes](#diagrama-orientado-objetos)
+- [Diagrama de Estados](#diagrama-estrutura-componente)
+- [Diagrama de Implantação](#diagrama-de-hardware-software)
+- [Referências](#referências)
 
-# Descrição
 
-*<Descrição_resumida_do_projeto>*
+# Autores
 
-# Documentação
+* Kauã de Castro Alencar
+* Kauan Sarzi Da Rocha
+* Guilherme Shinohara
+* Gabriel Freitas Curral Miwa
+* Leonardo Favaron Pereira
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
+
+# Descrição do Projeto
+
+*Foi-nos apresentado a empresa "Pizza Express", que enfrenta uma queda de 30% nas vendas devido a problemas na logística de entrega. O objetivo desse projeto é encontrar e solucionar as problemáticas da empresa, desenvolvendo dois sistemas de software: um para gerenciar os pedidos e identificar a loja mais próxima do cliente, e outro para suportar as operações das fábricas de pizza, visando reduzir o tempo de entrega para menos de 30 minutos.*
+
+# Análise de Requisitos Funcionais e Não-Funcionais
+*Requisitos Funcionais: 
+- Captar a localização com endereço do cliente.
+- Encontrar a franquia mais próxima a partir do endereço do cliente
+- Captar o pedido e enviar para a franquia localizada anteriormente.
+- Após a chegada do pedido, processar todas as informações dentro de 15 minutos.*
+*Requisitos Não-Funcionais:
+- Estabilidade do sistema, sem ocilações e quedas.
+- Segurança no sistema para nao ser invadido.
+- Velocidade do processamento dos dados e na hora de bater o endereço do cliente com a franquia próxima.
+- Compatibilidade entre plataformas.
+
+# Diagrama de Atividades
+
+Para resolver o problema da pizzaria o software vai fazer com que no momento em que  o cliente ligue para a central e informa o seu CEP, ele vai ser transferido para falar diretamente com a unidade mais próxima da sua casa. Assim que o pedido for realizado, a pizzaria vai ter que prepara-lo e liberar para entrega em um tempo de 10 a 15 minutos, com isso, vai sobrar um tempo de 15 minutos para a entrega ser efetuada, uma vez que cada unidade da pizzaria vai ficar em um raio que possa ser atendido dentro desse tempo. 
+
+# Diagrama de Casos de Uso
+
+*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+
+# Descrição dos Casos de Uso
+
+*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+
+# Diagrama de Sequência
+
+*&lt;Diagrama de ordem e interação dos objetos&gt;*
+
+# Diagrama de Classes
+
+*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+
+# Diagrama de Estados
+
+![image](https://github.com/user-attachments/assets/66965084-4131-449e-8cb4-766acc917745)
 
 
+# Diagrama de Implantação
 
-# Releases
+![image](https://github.com/user-attachments/assets/2acfc902-ab43-45dc-8e95-a477c9eeb7ad)
 
-Deverá ser publicado um release ao término de cada entrega do projeto.
+
