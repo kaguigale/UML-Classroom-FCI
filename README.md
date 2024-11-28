@@ -76,7 +76,7 @@ O sistema funciona da seguinte forma:
 ---
 
 ## **Diagrama de Sequência**  
-> *Representação do fluxo de interação entre os objetos em ordem cronológica.*  
+![Diagrama de Sequência](https://github.com/kaguigale/UML-Classroom-FCI/blob/master/DiagramaSequencias.png)  
 
 ---
 
