@@ -65,11 +65,6 @@ O sistema funciona da seguinte forma:
 
 ---
 
-## **Diagrama de Casos de Uso**  
-> *Diagrama ilustrando o comportamento dos atores e as interações com o sistema.*  
-
----
-
 ## **Descrição dos Casos de Uso**  
 > *Explicação detalhada sobre as interações entre os atores e os requisitos do sistema.*  
 
