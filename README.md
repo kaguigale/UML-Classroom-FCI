@@ -1,7 +1,3 @@
-Aqui está uma versão melhorada do seu README, com uma estrutura mais clara e visualmente organizada:
-
----
-
 # **Universidade Presbiteriana Mackenzie**  
 
 
