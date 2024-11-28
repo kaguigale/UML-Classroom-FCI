@@ -77,6 +77,3 @@ Para resolver o problema da pizzaria o software vai fazer com que no momento em 
 ![image](https://github.com/user-attachments/assets/2acfc902-ab43-45dc-8e95-a477c9eeb7ad)
 
 
-# Referências
-
-*&lt;Lista de referências&gt;*
