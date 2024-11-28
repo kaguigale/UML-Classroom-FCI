@@ -3,10 +3,9 @@ Aqui está uma versão melhorada do seu README, com uma estrutura mais clara e v
 ---
 
 # **Universidade Presbiteriana Mackenzie**  
-[![Mackenzie](https://upload.wikimedia.org/wikipedia/commons/e/e1/UPM_Logo.png)](https://www.mackenzie.br)  
+
 
 ### **Curso de Sistemas de Informação**  
-[Acesse o curso aqui](https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao)  
 
 ---
 
@@ -105,6 +104,3 @@ O sistema funciona da seguinte forma:
 - [Curso de Sistemas de Informação](https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao)  
 - Documentação interna da Pizza Express  
 
----
-
-Essa versão mantém a essência do original, mas aprimora a formatação e organiza melhor as informações.
