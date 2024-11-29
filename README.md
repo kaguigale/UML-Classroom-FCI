@@ -67,9 +67,9 @@ O sistema funciona da seguinte forma:
 
 ## **Descrição dos Casos de Uso**  
 > *Explicação detalhada sobre as interações entre os atores e os requisitos do sistema.*
-> ![Captura de tela 2024-11-28 204415](https://github.com/user-attachments/assets/23745332-445e-4eac-bba3-05d1e7599e78)
+>
 
----
+--
 
 ## **Diagrama de Sequência**  
 ![Diagrama de Sequência](https://github.com/kaguigale/UML-Classroom-FCI/blob/master/DiagramaSequencias.png)  
@@ -77,7 +77,9 @@ O sistema funciona da seguinte forma:
 ---
 
 ## **Diagrama de Classes**  
-> *Diagrama detalhando os relacionamentos entre classes, seus atributos e operações.*  
+> *Diagrama detalhando os relacionamentos entre classes, seus atributos e operações.*
+> ![Captura de tela 2024-11-28 204415](https://github.com/user-attachments/assets/23745332-445e-4eac-bba3-05d1e7599e78)
+> 
 
 ---
 
